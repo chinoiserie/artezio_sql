@@ -1,1 +1,0 @@
-# artezio_sql
